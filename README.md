@@ -11,7 +11,7 @@
 <h3>My developer value 🖐 </h3>
 
 - Learn extensively
-- Deeply understand
-- Communicating smoothly
-- Challeng in various ways
+- understand Deeply
+- Communicate smoothly
+- challenging in various ways
 - Sharing what we've achieved together.
