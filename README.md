@@ -5,7 +5,7 @@
 
 <!-- somebody may curious,  -->
 
-Developers who look far into the future, not the spot in front of.
+<!-- Developers who look far into the future, not the spot in front of. -->
 
 
 <h3>My developer value 🖐 </h3>
